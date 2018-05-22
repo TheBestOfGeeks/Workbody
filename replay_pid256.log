@@ -1,0 +1,12 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 135 ciObject found
+instanceKlass org/gradle/platform/base/TypeBuilder
+instanceKlass org/gradle/platform/base/ComponentSpecContainer
+instanceKlass org/gradle/model/internal/manage/schema/extract/NodeInitializerExtractionStrategy
+instanceKlass org/gradle/platform/base/plugins/ComponentBasePlugin
+instanceKlass org/gradle/language/base/plugins/LanguageBasePlugin
+instanceKlass org/gradle/api/reporting/ReportingExtension
+instanceKlass org/gradle/api/plugins/ReportingBasePlugin
+instanceKlass org/gradle/model/internal/core/InstanceModelView
